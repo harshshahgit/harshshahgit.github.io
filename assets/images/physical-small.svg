@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="88" viewBox="0 0 116 88">
+  <g id="excercise" transform="translate(-24 -80)">
+    <path id="Path_371" data-name="Path 371" d="M288,80H256v28h8V88h24v20h8V80Z" transform="translate(-174)" fill="#b0d6f7"/>
+    <path id="Path_372" data-name="Path 372" d="M259.992,198a37.931,37.931,0,0,1-14.673,30H198.664a38,38,0,1,1,61.327-30Z" transform="translate(-119.992 -59.997)" fill="#b0d6f7"/>
+    <path id="Path_373" data-name="Path 373" d="M120,320h48v12H120Z" transform="translate(-72 -180)" fill="#ff6aa0"/>
+    <path id="Path_374" data-name="Path 374" d="M88,256h8v44H88Z" transform="translate(-48 -132)" fill="#fda2c6"/>
+    <path id="Path_375" data-name="Path 375" d="M56,288h8v28H56Z" transform="translate(-24 -156)" fill="#fd84b3"/>
+    <path id="Path_376" data-name="Path 376" d="M24,320h8v12H24Z" transform="translate(0 -180)" fill="#ff6aa0"/>
+    <path id="Path_377" data-name="Path 377" d="M0,0H8V44H0Z" transform="translate(104 168) rotate(180)" fill="#fda2c6"/>
+    <path id="Path_378" data-name="Path 378" d="M0,0H8V28H0Z" transform="translate(112 160) rotate(180)" fill="#fd84b3"/>
+    <path id="Path_379" data-name="Path 379" d="M0,0H8V12H0Z" transform="translate(120 152) rotate(180)" fill="#ff6aa0"/>
+  </g>
+</svg>
